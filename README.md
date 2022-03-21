@@ -1,4 +1,4 @@
-#SeptumMobileNetSegmentationGAN
+# SeptumMobileNetSegmentationGAN
 
 This repository contains notebook used to train neural network for the project of calculating nasal septum deviation. 
 In the notebook explored GAN approach for training a neural network fo nasal septum segmentation.
